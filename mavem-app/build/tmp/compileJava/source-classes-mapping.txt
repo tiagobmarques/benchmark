@@ -1,0 +1,5 @@
+com/meli/simianapi/SwaggerConfig.java
+ com.meli.simianapi.SwaggerConfig
+ com.meli.simianapi.SwaggerConfig$1
+com/meli/simianapi/SimianApiApplication.java
+ com.meli.simianapi.SimianApiApplication
